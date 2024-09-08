@@ -33,7 +33,7 @@ nav ul {
 nav ul li a {
     text-decoration: none;
     color: #333;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bold;
     transition: color 0.3s;
 }
@@ -54,7 +54,6 @@ nav ul li a:hover {
     color: white;
     text-align: center;
     position: relative;
-    font-size: 50px;
 }
 
 .hero::before {
@@ -103,9 +102,6 @@ nav ul li a:hover {
     background-color: #f8f8f8;
     
 }
-.shop{
-    font-size: 55px;
-}
 .category-list {
     display: flex;
     justify-content: center;
@@ -113,7 +109,6 @@ nav ul li a:hover {
     flex-wrap: wrap;
     margin-top: 20px;
     height: 200px;
-    font-size: 40px;
 }
 
 .category {
@@ -141,7 +136,6 @@ nav ul li a:hover {
     padding: 40px 20px;
     background-color: #fff;
     text-align: center;
-    font-size: 40px;
 }
 
 .usp ul {
@@ -160,7 +154,6 @@ nav ul li a:hover {
     padding: 50px 20px;
     text-align: center;
     background-color: #f8f8f8;
-    font-size: 40px;
 }
 
 .review-list {
@@ -186,5 +179,4 @@ footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 20px;
-    font-size: 40px;
 }
